@@ -1,77 +1,60 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,45:16213E,100:E94560&height=190&section=header&text=DAVID%20MAGALHÃES&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=TRAINER%20OF%20SOFTWARE%20%26%20HARDWARE&descAlignY=62&descSize=15" alt="David Magalhães — Trainer of Software and Hardware" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:312E81,100:7C3AED&height=200&section=header&text=DAVID'S%20LAB&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=onde%20código%20encontra%20circuitos&descAlignY=63&descSize=16" alt="David's Lab — onde código encontra circuitos" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="96" alt="Pikachu pixel art" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="48" alt="Poké Ball" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" width="96" alt="Magnemite pixel art" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" width="92" alt="Porygon pixel art" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="46" alt="Poké Ball" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" width="92" alt="Magnemite pixel art" />
 </div>
 
 <div align="center">
+  <p><strong>Software Developer in training · Electronics Technician in training</strong></p>
   <a href="https://www.linkedin.com/in/david-magalhaes33/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 <br>
 
-## `╔══ TRAINER CARD ══╗`
+## `01 // IDENTIDADE DO TREINADOR`
+
+Meu nome é **David Magalhães** e este é o meu laboratório digital.
+
+Estou cursando **Técnico em Desenvolvimento de Sistemas** e **Técnico em Eletrônica**. Em vez de escolher entre software e hardware, escolhi entender a conversa entre os dois: o programa que controla, a placa que responde e a ideia que conecta tudo.
+
+Não estou apenas aprendendo a escrever código ou montar circuitos. Estou aprendendo a transformar curiosidade em protótipos, problemas em sistemas e projetos em experiência.
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  TRAINER: DAVID MAGALHÃES                                    │
-│  CLASS:   SOFTWARE & HARDWARE TRAINER                        │
-│  STATUS:  ONLINE · ALWAYS LEARNING                           │
-│                                                              │
-│  SPECIALTY: transformar ideias em projetos reais             │
-│  REGION:    código, circuitos e criatividade                 │
-└──────────────────────────────────────────────────────────────┘
+DAVID.EXE
+├── pensa em software
+├── experimenta com hardware
+├── aprende com cada erro
+└── transforma ideias em coisas que funcionam
 ```
 
-Sou estudante de **Técnico em Desenvolvimento de Sistemas** e **Técnico em Eletrônica**. Minha jornada combina dois universos: o software que pensa e o hardware que executa.
-
-Gosto de entender como as coisas funcionam por completo — desde a lógica por trás de uma aplicação até os componentes, sinais e circuitos que fazem um dispositivo ganhar vida.
-
-> **Minha missão:** conectar código e eletrônica para criar soluções que saiam da ideia e funcionem no mundo real.
-
-## `╔══ TRAINER STATS ══╗`
-
-| Atributo | Nível atual | Especialidade |
-|:---|:---:|:---|
-| **Lógica** | `████████░░` | Resolver problemas com código |
-| **Software** | `███████░░░` | Construir sistemas e aplicações |
-| **Eletrônica** | `███████░░░` | Entender circuitos e componentes |
-| **Hardware** | `██████░░░░` | Prototipar e experimentar |
-| **Curiosidade** | `██████████` | Nunca parar de aprender |
-
-## `╔══ TYPE MATCHUP ══╗`
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Software-3776AB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Tipo Software" />
-  <img src="https://img.shields.io/badge/Hardware-EF5350?style=for-the-badge&logo=arduino&logoColor=white" alt="Tipo Hardware" />
-  <img src="https://img.shields.io/badge/Electronics-F7D02C?style=for-the-badge&logo=probot&logoColor=111827" alt="Tipo Eletrônica" />
-  <img src="https://img.shields.io/badge/Systems-4CAF50?style=for-the-badge&logo=linux&logoColor=white" alt="Tipo Sistemas" />
-</div>
-
-<br>
+## `02 // MEU TIPO DE TECNOLOGIA`
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>Software side</h3>
-        <p>Aplicações, lógica, bancos de dados e sistemas desenvolvidos para resolver problemas.</p>
+        <img src="https://img.shields.io/badge/TYPE-SOFTWARE-312E81?style=for-the-badge" alt="Tipo Software" />
+        <br><br>
+        Sistemas, lógica, dados e aplicações que dão inteligência às ideias.
       </td>
       <td align="center" width="50%">
-        <h3>Hardware side</h3>
-        <p>Eletrônica, automação, prototipagem e dispositivos que tornam as ideias físicas.</p>
+        <img src="https://img.shields.io/badge/TYPE-HARDWARE-7C3AED?style=for-the-badge" alt="Tipo Hardware" />
+        <br><br>
+        Eletrônica, automação e protótipos que fazem as ideias existirem.
       </td>
     </tr>
   </table>
 </div>
 
-## `╔══ TECH INVENTORY ══╗`
+> **Minha combinação favorita:** quando uma linha de código consegue fazer um circuito reagir.
+
+## `03 // PARTY ATUAL`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,linux,mysql,arduino" height="64" alt="Java, C++, Linux, MySQL e Arduino" />
@@ -79,42 +62,54 @@ Gosto de entender como as coisas funcionam por completo — desde a lógica por 
 
 <br>
 
-| Item desbloqueado | Uso na jornada |
+| Companheiro | Função no time |
 |:---|:---|
-| **Java** | Desenvolvimento de sistemas e aplicações |
-| **C++** | Lógica, desempenho e programação próxima do hardware |
-| **Linux** | Sistemas, ambiente de desenvolvimento e exploração técnica |
-| **MySQL** | Organização e gerenciamento de dados |
-| **Arduino** | Prototipagem, eletrônica e automação |
+| **Java** | Desenvolver sistemas com organização e lógica |
+| **C++** | Explorar desempenho e a proximidade com o hardware |
+| **Linux** | Trabalhar em um ambiente técnico, livre e poderoso |
+| **MySQL** | Estruturar e organizar informações |
+| **Arduino** | Transformar código em movimento, resposta e automação |
 
-## `╔══ CURRENT QUEST ══╗`
-
-```diff
-+ Estudar desenvolvimento de sistemas
-+ Aprofundar conhecimentos em eletrônica
-+ Criar projetos que conectem software e hardware
-+ Evoluir uma habilidade de cada vez
-```
-
-Cada projeto é uma nova batalha contra um problema diferente. O objetivo não é apenas fazer funcionar, mas entender o processo, melhorar a solução e transformar cada erro em experiência.
-
-## `╔══ POKÉDEX ══╗`
-
-A Pokédex ainda está sendo preenchida. Em breve, esta seção reunirá meus projetos, experimentos e criações — desde aplicações e bancos de dados até protótipos eletrônicos e sistemas embarcados.
+## `04 // STATUS DO TREINAMENTO`
 
 ```text
-[ ??? ]  Projeto de software em treinamento
-[ ??? ]  Protótipo eletrônico em evolução
-[ ??? ]  Sistema híbrido: software + hardware
+╭─────────────────────────────────────────────╮
+│  QUEST PRINCIPAL                            │
+│  Construir soluções que conectem o digital  │
+│  ao físico.                                 │
+│                                             │
+│  FORMAÇÃO EM ANDAMENTO                      │
+│  [████████░░] Desenvolvimento de Sistemas   │
+│  [███████░░░] Eletrônica                    │
+│                                             │
+│  HABILIDADE ESPECIAL                        │
+│  Curiosidade + prática + vontade de testar  │
+╰─────────────────────────────────────────────╯
 ```
 
-## `╔══ SAVE POINT ══╗`
+Neste momento, estou fortalecendo minha base em programação, desenvolvimento de sistemas, eletrônica, automação e prototipagem. Cada estudo é uma nova peça para montar uma visão mais completa de como a tecnologia funciona.
 
-Se você também gosta de tecnologia, programação, eletrônica ou projetos que misturam o digital com o físico, vamos trocar ideias.
+## `05 // LAB NOTES`
+
+O que mais me interessa é a fronteira entre a tela e a bancada. Um sistema não termina no código, assim como um circuito não começa apenas nos componentes: existe uma lógica, uma intenção e um processo de construção por trás de cada projeto.
+
+Minha Pokédex de projetos ainda está sendo preenchida. Em breve, ela vai reunir aplicações, experiências com Arduino, sistemas e protótipos criados durante essa jornada.
+
+```diff
++ explorando software
++ estudando eletrônica
++ criando protótipos
++ conectando mundos
+- desistir no primeiro erro
+```
+
+## `06 // SAVE POINT`
+
+Se você gosta de desenvolvimento, eletrônica, hardware ou projetos que misturam tudo isso, meu laboratório está aberto para novas conexões.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/david-magalhaes33/">
-    <img src="https://img.shields.io/static/v1?message=Adicionar%20à%20sua%20rede&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" alt="Adicionar David à rede no LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=Entrar%20no%20laboratório&logo=linkedin&label=&color=7C3AED&logoColor=white&style=for-the-badge" alt="Entrar no laboratório pelo LinkedIn" />
   </a>
 </div>
 
@@ -129,5 +124,5 @@ Se você também gosta de tecnologia, programação, eletrônica ou projetos que
 </div>
 
 <div align="center">
-  <sub>Gotta code 'em all.</sub>
+  <sub>Entre o código e o circuito, toda evolução começa com um primeiro experimento.</sub>
 </div>
