@@ -1,15 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1E3A5F,100:0F766E&height=190&section=header&text=David%20Magalhães&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20%2B%20Hardware&descAlignY=63&descSize=17" alt="David Magalhães — Software + Hardware" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:162447,100:F89820&height=170&section=header&text=DAVID%20MAGALHÃES&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20%7C%20ELETRÔNICA%20%7C%20DESENVOLVIMENTO%20DE%20SISTEMAS&descAlignY=63&descSize=14" alt="David Magalhães — Java, Eletrônica e Desenvolvimento de Sistemas" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" width="82" alt="Porygon em pixel art" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="40" alt="Poké Ball em pixel art" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" width="82" alt="Magnemite em pixel art" />
+  <table>
+    <tr>
+      <td align="center" width="180">
+        <img src="https://skillicons.dev/icons?i=java" height="92" alt="Java" />
+        <br><strong>JAVA</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="42" alt="Poké Ball" />
+        <br><strong>+</strong>
+      </td>
+      <td align="center" width="180">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" width="92" alt="Magnemite em pixel art" />
+        <br><strong>ELETRÔNICA</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <p><strong>Estudante de Desenvolvimento de Sistemas e Eletrônica</strong></p>
   <a href="https://www.linkedin.com/in/david-magalhaes33/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -17,69 +29,96 @@
 
 <br>
 
-## Sobre mim
+## Código que conversa com circuitos
 
 Olá, eu sou **David Magalhães**.
 
-Atualmente, estudo **Técnico em Desenvolvimento de Sistemas** e **Técnico em Eletrônica**. Minha formação reúne duas áreas que se complementam: o desenvolvimento de soluções digitais e a compreensão dos componentes e circuitos que fazem a tecnologia funcionar.
+Estudo **Técnico em Desenvolvimento de Sistemas** e **Técnico em Eletrônica**. Meu interesse está exatamente no ponto em que essas duas áreas se encontram: usar programação para criar soluções e entender a eletrônica que faz essas soluções funcionarem.
 
-Tenho interesse em criar projetos que conectem programação, eletrônica, automação e hardware. Gosto de aprender na prática, entender como cada parte de um sistema se relaciona e transformar ideias em soluções funcionais.
+O **Java** representa meu caminho no desenvolvimento de sistemas. A **eletrônica** representa minha curiosidade pelo mundo físico. Juntos, eles formam a direção que quero seguir.
 
-## Software e hardware
+<div align="center">
+
+```text
+┌──────────────────┐       ┌──────────────────┐
+│                  │       │                  │
+│   JAVA / LOGIC   │ ───►  │  CIRCUIT / ACTION│
+│                  │       │                  │
+└──────────────────┘       └──────────────────┘
+        SOFTWARE  +  HARDWARE
+```
+
+</div>
+
+## O que define meu perfil
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <h3>Software</h3>
-        <p>Desenvolvimento de sistemas, lógica de programação, aplicações e bancos de dados.</p>
+      <td align="center" width="33%">
+        <h3>01</h3>
+        <strong>Desenvolver</strong><br>
+        Criar sistemas com lógica, organização e propósito.
       </td>
-      <td align="center" width="50%">
-        <h3>Hardware</h3>
-        <p>Eletrônica, prototipagem, automação e integração entre componentes e código.</p>
+      <td align="center" width="33%">
+        <h3>02</h3>
+        <strong>Entender</strong><br>
+        Estudar circuitos, componentes e o funcionamento por trás da tecnologia.
+      </td>
+      <td align="center" width="33%">
+        <h3>03</h3>
+        <strong>Conectar</strong><br>
+        Fazer software e hardware trabalharem juntos.
       </td>
     </tr>
   </table>
 </div>
 
-Acredito que os projetos mais interessantes surgem quando essas duas áreas trabalham juntas: o software define a lógica e o hardware transforma essa lógica em algo concreto.
+## Java em destaque
 
-## Tecnologias e ferramentas
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-em%20desenvolvimento-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java em desenvolvimento" />
+  <img src="https://img.shields.io/badge/POO-e%20lógica-162447?style=for-the-badge&logo=java&logoColor=white" alt="Programação orientada a objetos e lógica" />
+</div>
+
+Tenho interesse em utilizar Java para desenvolver sistemas organizados, praticar programação orientada a objetos e construir uma base sólida em desenvolvimento de software.
+
+## Eletrônica em prática
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Arduino-prototipagem-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino e prototipagem" />
+  <img src="https://img.shields.io/badge/Circuitos-aprendizado-EF4444?style=for-the-badge&logo=probot&logoColor=white" alt="Circuitos e eletrônica" />
+</div>
+
+A eletrônica me permite sair do ambiente puramente digital e experimentar com componentes, sinais, automação e protótipos. É onde o conhecimento deixa de ser apenas teoria e começa a responder fisicamente.
+
+## Ferramentas que estou desenvolvendo
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,linux,mysql,arduino" height="64" alt="Java, C++, Linux, MySQL e Arduino" />
 </div>
 
-<br>
-
-| Área | Tecnologias |
+| Foco | Tecnologias |
 |:---|:---|
-| **Desenvolvimento** | Java e C++ |
+| **Principal** | Java |
+| **Eletrônica** | Arduino e fundamentos de circuitos |
+| **Programação** | C++ e lógica de programação |
 | **Sistemas** | Linux |
-| **Banco de dados** | MySQL |
-| **Eletrônica e prototipagem** | Arduino |
+| **Dados** | MySQL |
 
-## Em desenvolvimento
+## Próximos projetos
 
-Neste momento, estou fortalecendo meus conhecimentos em desenvolvimento de sistemas, eletrônica e integração entre software e hardware. Meu objetivo é evoluir por meio de projetos práticos, experimentos e aprendizado contínuo.
+Estou construindo minha experiência por meio de projetos que aproximem software e hardware: aplicações em Java, automações, experimentos com Arduino e sistemas capazes de transformar dados em ações.
 
-```text
-software  →  lógica e controle
-hardware  →  interação e resposta
-projeto   →  os dois trabalhando juntos
-```
+Esta página vai acompanhar essa evolução — da primeira linha de código ao primeiro circuito funcionando.
 
-## Projetos
+## Conecte-se
 
-Estou construindo e organizando projetos que representem minha evolução nas áreas de programação, sistemas e eletrônica. Em breve, esta seção reunirá aplicações, experimentos com Arduino, soluções envolvendo banco de dados e protótipos desenvolvidos durante minha formação.
-
-## Contato
-
-Tenho interesse em aprender, colaborar e conhecer pessoas que também trabalham ou estudam tecnologia, desenvolvimento de sistemas e eletrônica.
+Se você trabalha com Java, eletrônica, automação ou desenvolvimento de sistemas, será um prazer trocar experiências.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/david-magalhaes33/">
-    <img src="https://img.shields.io/static/v1?message=Conecte-se%20comigo%20no%20LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" alt="Conectar com David no LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=Vamos%20conversar&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" alt="Vamos conversar no LinkedIn" />
   </a>
 </div>
 
@@ -89,10 +128,10 @@ Tenho interesse em aprender, colaborar e conhecer pessoas que também trabalham 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidmagalhaes33/davidmagalhaes33/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidmagalhaes33/davidmagalhaes33/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/davidmagalhaes33/davidmagalhaes33/output/pacman-contribution-graph.svg" alt="Gráfico de contribuições do Pac-Man" />
+    <img src="https://raw.githubusercontent.com/davidmagalhaes33/davidmagalhaes33/output/pacman-contribution-graph.svg" alt="Pac-Man percorrendo o gráfico de contribuições" />
   </picture>
 </div>
 
 <div align="center">
-  <sub>Construindo conhecimento entre linhas de código e circuitos.</sub>
+  <sub>Java no código. Eletrônica na prática. Curiosidade em movimento.</sub>
 </div>
