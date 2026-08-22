@@ -1,6 +1,6 @@
 <div align="center">
   <h1>David Magalhães</h1>
-  <p>Desenvolvimento de Sistemas · Java · Eletrônica</p>
+  <p>Estudante de Desenvolvimento de Sistemas e Eletrônica</p>
 
   <a href="https://www.linkedin.com/in/david-magalhaes33/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -9,22 +9,22 @@
 
 <br>
 
-## Sobre
+## Sobre mim
 
-Sou estudante de **Técnico em Desenvolvimento de Sistemas** e **Técnico em Eletrônica**.
+Tenho interesse em **Java**, desenvolvimento de sistemas, eletrônica e projetos que conectam software e hardware.
 
-Tenho interesse em **Java**, desenvolvimento de sistemas, automação e projetos que conectam software e hardware.
-
-## Tecnologias
+## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,linux,mysql,arduino" height="48" alt="Java, C++, Linux, MySQL e Arduino" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,linux,mysql,arduino" height="52" alt="Java, C++, Linux, MySQL e Arduino" />
 </div>
 
 <br>
 
-**Principal:** Java  ·  **Eletrônica:** Arduino  ·  **Outros:** C++, Linux e MySQL
-
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/david-magalhaes33/)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidmagalhaes33/davidmagalhaes33/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidmagalhaes33/davidmagalhaes33/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/davidmagalhaes33/davidmagalhaes33/output/pacman-contribution-graph.svg" alt="Gráfico de contribuições do Pac-Man" />
+  </picture>
+</div>
