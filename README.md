@@ -1,25 +1,22 @@
-<div align="center">
-  <h1>David Magalhães</h1>
-  <p>Estudante de Desenvolvimento de Sistemas e Eletrônica</p>
-
-  <a href="https://www.linkedin.com/in/david-magalhaes33/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
 </div>
 
-<br>
+###
 
-## Sobre mim
-
-Tenho interesse em **Java**, desenvolvimento de sistemas, eletrônica e projetos que conectam software e hardware.
-
-## Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,linux,mysql,arduino" height="52" alt="Java, C++, Linux, MySQL e Arduino" />
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
-<br>
+###
 
 <div align="center">
   <picture>
